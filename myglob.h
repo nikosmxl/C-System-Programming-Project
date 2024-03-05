@@ -1,0 +1,1 @@
+int myglob(char* parsed, char** , int , bool );
